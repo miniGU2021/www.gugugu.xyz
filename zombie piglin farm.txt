@@ -1,0 +1,8 @@
+rotten flesh: 54 stacks/40min, 1.35 stack per min, 1.44 per second (measured on 20220626)
+gold nuglet: 36 stacks/40min, 0.9 stack per min, 0.96 per second (measured on 20220626)
+
+14:39 start test
+rotten flesh: empty
+gold nuglet: -1 stack
+
+15:28 abundon test

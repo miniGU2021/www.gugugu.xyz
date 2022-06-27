@@ -1,0 +1,8 @@
+20220627 issue
+1 About 3 quaters of furnaces do not work. Only the southwest part of furnaces work. This may attribute to a hopper which limits the speed of item transfer. After skipping this hopper and adding item straightly, more furnaces work.
+2 Some carpets stick in furnace smelted slot. I don't know whether they exist before machine started or enter furnaces when the machine runs.
+3 Minecart do not reset.
+
+1 近三分之一的熔炉没有工作。只有西南角的熔炉在工作。这可能是由一个限制物品传送速度的漏斗引起。跳过这个漏斗直接在下面的箱子放物品之后，更多熔炉工作了。
+2 有些羊毛毯卡在熔炉的冶炼槽里了。我不知道它们是机器启动前就卡在那里还是机器启动后进入熔炉的。
+3 矿车没有复位。
