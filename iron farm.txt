@@ -1,7 +1,7 @@
 [2022 07 01   09:20 AM] Test starts. Initial log.
 item amount: 21 stacks
 
-[2022 07 01   09:33 AM] Regular/routine log.
+[2022 07 01   09:33 AM] Regular/routine log. Suspicious!
 item amount: 24 stacks + 4 item
 adjacent speed: 15.077 item/min
 
@@ -13,3 +13,12 @@ adjacent speed: 1353 item/ 201min = 6.731 item/min
 
 [2022 06 30   01:33 PM] Test start. Initial log.
 item amount: 6 large chests -4stacks - 44item
+
+[2022 07 01   06:44 PM] Test is abundoned, encounter with an internet shutting down.
+
+[2022 07 01   06:46 PM] Test starts. Initial log.
+item amount: 6 large chests 17 stacks 52 item
+
+[2022 07 01   07:23 PM] Regular/routine log.
+item amount: 6 large chests 21 stacks 12 item
+adjacent speed: 216 item / 37 min = 5.838 item/min
