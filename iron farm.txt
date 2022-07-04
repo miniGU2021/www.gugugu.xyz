@@ -22,3 +22,5 @@ item amount: 6 large chests 17 stacks 52 item
 [2022 07 01   07:23 PM] Regular/routine log.
 item amount: 6 large chests 21 stacks 12 item
 adjacent speed: 216 item / 37 min = 5.838 item/min
+
+[2022 07 04   11:36 PM] Test is abundoned.
